@@ -12,47 +12,34 @@
 -
   id: 003
   title: "Kick-off!🚀 - Panel con expertos"
-  description: " Hot chicken beard kogi gastropub squid street art. Seitan tacos craft beer vegan mustache typewriter godard street art disrupt migas ugh 3 wolf moon master cleanse retro pitchfork. Kogi blog stumptown, tacos sustainable adaptogen copper mug iceland."
-  subtype: panel
-  speakers: []
+  description: "Hot chicken beard kogi gastropub squid street art. Seitan tacos craft beer vegan mustache typewriter godard street art disrupt migas ugh 3 wolf moon master cleanse retro pitchfork. Kogi blog stumptown, tacos sustainable adaptogen copper mug iceland."
+  subtype: keynote
+  speakers: [1]
 -
   id: 004
   title: "¡A comer! 🍕"
 -
   id: 005
-  title: "Taller: A"
+  title: "Taller A: Diseño 🖍 - Wireframing & Mockups"
   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [1, 2]
 -
   id: 006
-  title: "Taller: B"
+  title: "Taller B: Negocios 💰 - Canvas"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [1]
 -
   id: 007
   title: "Cena"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
   title: "Actividad Sorpresa 😄"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
+  speakers: [1]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -62,7 +49,7 @@
   title: "Hack Snack"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
+  speakers: [2]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -72,7 +59,7 @@
   title: "Desayuno"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
+  speakers: [1]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -82,17 +69,17 @@
   title: "Conferencia: Blockchain"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
+  speakers: [1]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 012
-  title: "Taller: C"
+  title: "Taller C: Presentación 💰 - Pitch"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [7]
+  speakers: [1]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
@@ -109,7 +96,7 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 014
-  title: "Taller: D"
+  title: "Taller D: Técnico 💻 - Intro a Git"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
   speakers: [7]
